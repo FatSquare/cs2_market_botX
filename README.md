@@ -13,7 +13,7 @@
 # <a id="introduction">CS2 botX </a>
 CS2 botX is a  tool that watchs the steam community market for skins floats/prices in counter strike 2 (aka CS:GO)
 <br>Currently you can't buy skins yet. you just get a list of skins floats
-<br><br>___Note: This tool is against steam TOS and it's only for educational purpose. Using it might result in a steam community ban.___
+
 
 ## <a id="ss">Screenshots</a>  
 
